@@ -12,7 +12,7 @@ $calc_num = $calc_num < CALC_NUM_MIN ? CALC_NUM_MIN : $calc_num;
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="保有銘柄の評価額を均等にするための購入金額と購入株数を計算するツールです。">
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
   <style>
     /* 第1,5,6カラムに適用 */
     .col156-align td:nth-of-type(1), td:nth-of-type(5), td:nth-of-type(6) {
